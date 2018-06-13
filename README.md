@@ -1,7 +1,7 @@
 # Basic_Analysis
 Basic Analysis method using R and Python
 
-내용 : R과 Python을 활용한 기본 프로그래밍 문법 정리 및 데이터 처리 패키지 활용 정리
+>내용 : R과 Python을 활용한 기본 프로그래밍 문법 정리 및 데이터 처리 패키지 활용 정리
 
 목표 : 주로 사용했던 R을 활용해 아래 개념들을 우선 정리한 뒤 Python을 이용해 같은 내용 재정리
 

@@ -1,10 +1,11 @@
 # Basic_Analysis
 Basic Analysis method using R and Python
 
->내용 : R과 Python을 활용한 기본 프로그래밍 문법 정리 및 데이터 처리 패키지 활용 정리
+>내용 : R과 Python을 활용한 기본 프로그래밍 문법 정리 및 데이터 처리 및 기본 분석 패키지 활용 정리
 
 >참고 자료 : R을 이용한 데이터 처리 & 분석 실무 (서민구 지음)
 
+## - 데이터 처리 관련
 ### 1. 데이터 타입
 #### 1) 스칼라
 #### 2) 벡터
@@ -31,3 +32,5 @@ Basic Analysis method using R and Python
 #### 3) 데이터 구조 변형 및 요약
 #### 4) 데이터 테이블
 #### 5) 병렬 처리
+
+## - 데이터 분석 관련
